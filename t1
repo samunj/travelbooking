@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Travel Booking</title>
+</head>
+<body>
+    <h1>Travel Booking Application</h1>
+
+    <form>
+        Name:<br>
+        <input type="text"><br><br>
+
+        Destination:<br>
+        <input type="text"><br><br>
+
+        Travel Date:<br>
+        <input type="date"><br><br>
+
+        <input type="submit" value="Book Travel">
+    </form>
+
+</body>
+</html>
